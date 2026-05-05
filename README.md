@@ -23,7 +23,7 @@ Un navegador web minimalista y ultra ligero construido con **AutoHotkey v2** uti
 ### Ejecución desde el código
 1. Clona este repositorio o descarga los archivos.
 2. Asegúrate de que la carpeta `Lib` contenga la librería `WebViewToo.ahk` y las DLLs correspondientes.
-3. Ejecuta `Navegador.ahk`.
+3. Ejecuta `blackfox.ahk`.
 
 ### Compilación (Crear el .exe)
 Si deseas convertirlo en un ejecutable estable:
